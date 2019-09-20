@@ -5,16 +5,17 @@ date: "9/17/2019"
 output: html_document
 ---
 
-##Assignment
+Assignment:
+
 Final Project Milestone #2 due Friday, September 20. Github repo with Rmd (and knitted html) which discusses pros and cons two projects from past years. At least one project should be one which did extensive data gathering/cleaning. You should not select the same projects for commentary as your friends have. Students generally write about a paragraph for each project.
 
-###Project 1: POTUS & PRICING: How Trump’s Tweets Affect Intraday Trading
+Project 1: POTUS & PRICING: How Trump’s Tweets Affect Intraday Trading by William Smiles
 
-A pro to this project is that it is highly interactive and flexible. The interface for changing the stock symbol, date, interval, and tweet is easy to use and opems up a large amount of exploration with this data. 
-The biggest con to this project is a lack of assistance in interpreting the graph. An X-axis label and, particularly, a Y-axis label on both the pricing graph and trade volume graph would be useful to users who are not familiar with stock trading. Additionally, it is unclear why some data points are green and some are red -- this is another area in which better documentation would have  helped the user to better understand the project. 
+A pro to this project is that it is highly interactive and flexible. The interface for changing the stock symbol, date, interval, and tweet is easy to use and allows for a vast amount of exploration with this data. 
+The biggest con to this project is a lack of assistance in interpreting the graph. An X-axis label and, particularly, a Y-axis label on both the pricing graph and trade volume graph would be useful to users who are not familiar with stock trading. Additionally, it is unclear why some data points are green and some are red -- this is another area in which more documentation would have helped the untrained eye better understand this project. 
 
-###Project 2: Analysis of rates of mental illness among comedians.
+Project 2: Hip-Hop and Rap References of the 2016 Presidential Candidates by Tauheed Islam
 
-A con of this project is that it seems to have used data in misleading or ineffective ways. The songs being used in the analysis date back to the 1980s, which was long before many of the presidential candidates were known by the public. Trump and Clinton lead the pack in mentions by hip hop artists most likely because they were public figures for far longer than Ted Cruz, Jeb Bush, Bernie Sanders, and the other candidates in consideration. Additionally, the chart in "Key Takeaways" that looks at mentions of Trump's money versus his politics over time is ineffective and obvious because Trump was not involved in politics until 2016. A pro of this project is the novel connections being drawn. The connection between hip-hop lyrics and politics is not immediately intuitive, so this data reveals a unique set of observations. 
+A con of this project is that it seems to have used some data in ineffective ways. The songs being used in the analysis date back to the 1980s, which was long before many of the presidential candidates were known by the public. Trump and Clinton lead the pack in mentions by hip hop artists most likely because they were public figures for far longer than Ted Cruz, Jeb Bush, Bernie Sanders, and the other candidates in consideration. Additionally, the chart in "Key Takeaways" that looks at mentions of Trump's money versus his politics over time is ineffective and obvious because Trump was not involved in politics until 2016. A pro of this project is the novel connections being drawn. The connection between hip-hop lyrics and politics is not immediately intuitive, so this data reveals a unique set of observations. 
 
 
